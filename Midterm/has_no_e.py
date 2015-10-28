@@ -1,7 +1,7 @@
 #!/bin/bash
 #Matt McColeman 100525235
 def has_no_e(word):
-	if c in word == 'e':
+	if character in string(word) == 'e':
 		return False
 	else:
 		return True
